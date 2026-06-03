@@ -1,0 +1,6 @@
+{
+  "name": "Spectra Mobile",
+  "description": "ポーカーのGTOハンドレンジ戦略を、美しいスペクトルの混合戦略カラー、超高速な操作性、13x13マトリクスのモバイル最適化タップビュー、スタック深度切り替え、そして移動時間も無駄にしないGTOクイズ・トレーニング機能で極めるモバイル特化型ポーカー学習兵器。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
